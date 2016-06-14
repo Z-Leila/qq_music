@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "./music/Best Day Of My Life.mp3",
+    "duration": "03:14",
+    "title": "Best Day Of My Life",
+    "album": "Best Day Of My Life - Single",
+    "artist": "American Authors"
+  },
+  {
+    "filename": "./music/Go Big Or Go Home.mp3",
+    "duration": "02:49",
+    "title": "Go Big Or Go Home",
+    "album": "Go Big Or Go Home",
+    "artist": "American Authors"
+  },
+  {
+    "filename": "./music/Just the Way You Are.mp3",
+    "duration": "03:40",
+    "title": "Just the Way You Are",
+    "album": "Doo-Wops & Hooligans",
+    "artist": "Bruno Mars"
+  },
+  {
+    "filename": "./music/Love Me Do.mp3",
+    "duration": "02:22",
+    "title": "Love Me Do",
+    "album": "Please Please Me·Stereo版",
+    "artist": "The Beatles"
+  },
+  {
+    "filename": "./music/Moves Like Jagger.mp3",
+    "duration": "03:21",
+    "title": "Moves Like Jagger (Studio Recording from the Voice Performance)",
+    "album": "Moves Like Jagger (The Voice Performance)",
+    "artist": "Maroon 5"
+  },
+  {
+    "filename": "./music/Poker Face.mp3",
+    "duration": "03:57",
+    "title": "Poker Face",
+    "album": "The Fame",
+    "artist": "Lady GaGa"
+  },
+  {
+    "filename": "./music/Roar .mp3",
+    "duration": "03:43",
+    "title": "Roar",
+    "album": "Roar",
+    "artist": "Katy Perry"
+  },
+  {
+    "filename": "./music/Stronger.mp3",
+    "duration": "03:42",
+    "title": "What Doesn't Kill You (Stronge",
+    "album": "Stronger (Deluxe Edition)",
+    "artist": "Kelly Clarkson"
+  },
+  {
+    "filename": "./music/Sugar.mp3",
+    "duration": "03:56",
+    "title": "Sugar",
+    "album": "V (Deluxe Version)",
+    "artist": "Maroon 5"
+  },
+  {
+    "filename": "./music/U Make Me Wanna .mp3",
+    "duration": "03:49",
+    "title": "U Make Me Wanna",
+    "album": "One Love",
+    "artist": "Blue"
+  }
+]
